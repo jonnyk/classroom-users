@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 bac330d9c9387a8cc227b0e282bf206166f0e9b3 Ben Ford <ben.ford@puppetlabs.com> 1424558463 -0800	commit (initial): initial commit
+bac330d9c9387a8cc227b0e282bf206166f0e9b3 bac330d9c9387a8cc227b0e282bf206166f0e9b3 Ben Ford <ben.ford@puppetlabs.com> 1424558499 -0800	checkout: moving from master to admins
+bac330d9c9387a8cc227b0e282bf206166f0e9b3 9a3110184faf8780b05ef6e14897776497e35d9c Ben Ford <ben.ford@puppetlabs.com> 1424558540 -0800	commit: manage admin user(s)
+9a3110184faf8780b05ef6e14897776497e35d9c bac330d9c9387a8cc227b0e282bf206166f0e9b3 Ben Ford <ben.ford@puppetlabs.com> 1424560913 -0800	checkout: moving from admins to master
